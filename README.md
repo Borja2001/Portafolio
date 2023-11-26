@@ -31,9 +31,20 @@ Codigo: [![Calculadora en Snack](https://img.shields.io/badge/Expo%20Snack-Open%
 
 ___
 ### Calculadora IMC
+![Foto Calculadora IMC react-native](https://github.com/Borja2001/Portafolio/blob/main/calculadoraIMC.png)
+
+Esta aplicacion ha sido creada usando JavaScript con el FrameWork React-Native. En este proyecto me he enfocado en la creación de componentes y en la comunicación entre componentes padre e hijo
+
+[Repositorio github](https://github.com/Borja2001/CalculadoraIMC)
 
 
+## Back-end
 
+### Gestion de ficheros Java
+
+![Foto Gestión de ficheros Java](https://github.com/Borja2001/Portafolio/blob/main/gestion%20de%20ficheros.png)
+
+Esta aplicación se ha hecho con Java. En ella puedes navegar por las carpetas y buscar informacion de los ficheros.
 
 
 
