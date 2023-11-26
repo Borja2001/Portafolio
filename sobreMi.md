@@ -10,6 +10,7 @@ A dia de hoy he aprendido una variedad de lenguajes como:
 Otras tecnologias:
 - Github
 - Microsoft Office
+- Uso de consultas http en proyectos moviles.
 
 ## Soft Skills
   He trabajado en grupo para realizar trabajos obteniendo las siguientes competencias:
@@ -18,5 +19,6 @@ Otras tecnologias:
   - Compromíso
   - Empatia
   - etc.
-  - [Volver](README.md)
+  
+   [Volver](README.md)
  
