@@ -31,6 +31,8 @@ Codigo: [![Calculadora en Snack](https://img.shields.io/badge/Expo%20Snack-Open%
 
 [Video Explicativo](https://www.youtube.com/watch?v=rmnpycZbI3I)
 
+Colaboradora:[Laia Climente Crespo](https://github.com/LaClCr/)
+
 ___
 ### Calculadora IMC
 ![Foto Calculadora IMC react-native](https://github.com/Borja2001/Portafolio/blob/main/calculadoraIMC.png)
