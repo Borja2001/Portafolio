@@ -8,6 +8,8 @@ Soy Borja Prieto Escrivà, un estudiante de 2º de DAM (Desarrollo de Aplicacion
 Me apasiona el mundo de la programación por la necesidad de cierta creatividad para afrontar problemas y la satisfacción de conseguir resolverlos.
 [Ver más información](sobreMi.md)
 
+[Currículum vitae](https://github.com/Borja2001/Portafolio/blob/main/Borja_Prieto_Escriva.pdf)
+
 # Proyectos
 ## Front-end
 ### Calculadora React-Native
