@@ -52,6 +52,8 @@ Esta aplicación se ha hecho con Java. En ella puedes navegar por las carpetas y
 
 [Video demostración](https://youtu.be/HjecaLYuDMU)
 
+[Repositorio github](https://github.com/Borja2001/EntregasAccesDades/tree/App-Control-ficheros-java)
+
 
 ___
 
@@ -63,6 +65,10 @@ Esta aplicación se ha hecho con Java. En podemos hacer distintas consultas sql 
 Tiene dos tipos de usuarios: los clientes, que solo pueden realizar consultas SELECT, y los administradores, que además pueden realizar operaciones de inserción (INSERT), eliminación (DELETE) y actualización (UPDATE)
 
 [Video demostración](https://www.youtube.com/watch?v=YD4YM1ZREwk)
+
+[Repositorio github](https://github.com/Borja2001/EntregasAccesDades/tree/Base-de-Datos)
+
+Colaboradora:[Laia Climente Crespo](https://github.com/LaClCr/)
 
 
 
