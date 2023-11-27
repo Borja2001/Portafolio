@@ -31,7 +31,7 @@ Codigo: [![Calculadora en Snack](https://img.shields.io/badge/Expo%20Snack-Open%
 
 [Video Explicativo](https://www.youtube.com/watch?v=rmnpycZbI3I)
 
-Colaboradora:[Laia Climente Crespo](https://github.com/LaClCr/)
+Colaboradora:[Laia Clemente Crespo](https://github.com/LaClCr/)
 
 ___
 ### Calculadora IMC
@@ -68,7 +68,7 @@ Tiene dos tipos de usuarios: los clientes, que solo pueden realizar consultas SE
 
 [Repositorio github](https://github.com/Borja2001/EntregasAccesDades/tree/Base-de-Datos)
 
-Colaboradora:[Laia Climente Crespo](https://github.com/LaClCr/)
+Colaboradora:[Laia Clemente Crespo](https://github.com/LaClCr/)
 
 ___
 
@@ -78,7 +78,7 @@ En esta aplicación se ve como conectamos dos aplicaciones haciendo un multiproc
 
 [Video demostración](https://www.youtube.com/watch?v=CAYoClN9wAQ)
 
-Colaboradora:[Laia Climente Crespo](https://github.com/LaClCr/)
+Colaboradora:[Laia Clemente Crespo](https://github.com/LaClCr/)
 
 
 
