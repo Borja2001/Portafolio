@@ -50,6 +50,21 @@ Esta aplicacion ha sido creada usando JavaScript con el FrameWork React-Native. 
 
 Esta aplicación se ha hecho con Java. En ella puedes navegar por las carpetas y buscar informacion de los ficheros.
 
+[Video demostración](https://youtu.be/HjecaLYuDMU)
+
+
+___
+
+### Conexión a Base de datos + consultas
+
+![Conexión a Base de datos + consultas](https://github.com/Borja2001/Portafolio/blob/main/ConexionBaseDatos_Consultas.png)
+
+Esta aplicación se ha hecho con Java. En podemos hacer distintas consultas sql a una base de datos pasada por un fichero xml.
+Tiene dos tipos de usuarios: los clientes, que solo pueden realizar consultas SELECT, y los administradores, que además pueden realizar operaciones de inserción (INSERT), eliminación (DELETE) y actualización (UPDATE)
+
+[Video demostración](https://www.youtube.com/watch?v=YD4YM1ZREwk)
+
+
 
 
 
