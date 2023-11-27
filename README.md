@@ -70,6 +70,17 @@ Tiene dos tipos de usuarios: los clientes, que solo pueden realizar consultas SE
 
 Colaboradora:[Laia Climente Crespo](https://github.com/LaClCr/)
 
+___
+
+### Multiproceso y multihilo
+
+En esta aplicación se ve como conectamos dos aplicaciones haciendo un multiproceso y en la aplicación que se llama, creamos varios hilos.
+
+[Video demostración](https://www.youtube.com/watch?v=CAYoClN9wAQ)
+
+Colaboradora:[Laia Climente Crespo](https://github.com/LaClCr/)
+
+
 
 
 
