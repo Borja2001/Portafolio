@@ -11,98 +11,94 @@ Me apasiona el mundo de la programación por la necesidad de cierta creatividad 
 [Currículum vitae](https://github.com/Borja2001/Portafolio/blob/main/Borja_Prieto_Escriva.pdf)
 
 # Proyectos
-## Front-end
-### Calculadora React-Native
 
-![Foto Calculadora react-native](https://github.com/Borja2001/Portafolio/blob/main/fotoCalculaora.png)
+ ### MusicAttendance
+### Resumen
 
+El proyecto MusicAttendance surge de la necesidad de disponer de herramientas efectivas para el registro y seguimiento de la asistencia de profesores y alumnos en una escuela musical. Considerando la importancia de una gestión adecuada del tiempo y la asistencia para mantener la calidad educativa y organizativa, se ha desarrollado esta aplicación móvil con una interfaz intuitiva y fácil de usar.
 
-Esta aplicacion ha sido creada usando JavaScript con el FrameWork React-Native. Es una calculadora que hace las operaciones de una calculadora cientifica normal.
+### Objetivos
 
-Codigo: [![Calculadora en Snack](https://img.shields.io/badge/Expo%20Snack-Open%20In%20Expo-blue?style=flat-square&logo=expo&logoColor=white)](https://snack.expo.dev/@bopres/calculadora)
-
-___
-### App Juegos en React Native
-
-![Crucigrama](https://github.com/Borja2001/Portafolio/blob/main/juego1.png) ![Sopa de Letras](https://github.com/Borja2001/Portafolio/blob/main/juego2.png)
-
-
-Codigo: [![Calculadora en Snack](https://img.shields.io/badge/Expo%20Snack-Open%20In%20Expo-blue?style=flat-square&logo=expo&logoColor=white)](https://snack.expo.dev/@bopres/appae2)
-
-[Video Explicativo](https://www.youtube.com/watch?v=rmnpycZbI3I)
-
-Colaboradora:[Laia Clemente Crespo](https://github.com/LaClCr/)
-
-___
-### Calculadora IMC
-![Foto Calculadora IMC react-native](https://github.com/Borja2001/Portafolio/blob/main/calculadoraIMC.png)
-
-Esta aplicacion ha sido creada usando JavaScript con el FrameWork React-Native. En este proyecto me he enfocado en la creación de componentes y en la comunicación entre componentes padre e hijo
-
-[Repositorio github](https://github.com/Borja2001/CalculadoraIMC)
-
-
-## Back-end
-
-### Gestion de ficheros Java
-
-![Foto Gestión de ficheros Java](https://github.com/Borja2001/Portafolio/blob/main/gestion%20de%20ficheros.png)
-
-Esta aplicación se ha hecho con Java. En ella puedes navegar por las carpetas y buscar informacion de los ficheros.
-
-[Video demostración](https://youtu.be/HjecaLYuDMU)
-
-[Repositorio github](https://github.com/Borja2001/EntregasAccesDades/tree/App-Control-ficheros-java)
-
-
-___
-
-### Conexión a Base de datos + consultas
-
-![Conexión a Base de datos + consultas](https://github.com/Borja2001/Portafolio/blob/main/ConexionBaseDatos_Consultas.png)
-
-Esta aplicación se ha hecho con Java. En podemos hacer distintas consultas sql a una base de datos pasada por un fichero xml.
-Tiene dos tipos de usuarios: los clientes, que solo pueden realizar consultas SELECT, y los administradores, que además pueden realizar operaciones de inserción (INSERT), eliminación (DELETE) y actualización (UPDATE)
-
-[Video demostración](https://www.youtube.com/watch?v=YD4YM1ZREwk)
-
-[Repositorio github](https://github.com/Borja2001/EntregasAccesDades/tree/Base-de-Datos)
-
-Colaboradora:[Laia Clemente Crespo](https://github.com/LaClCr/)
-
-___
-
-### Multiproceso y multihilo
-
-En esta aplicación se ve como conectamos dos aplicaciones haciendo un multiproceso y en la aplicación que se llama, creamos varios hilos.
-
-[Video demostración](https://www.youtube.com/watch?v=CAYoClN9wAQ)
-
-Colaboradora:[Laia Clemente Crespo](https://github.com/LaClCr/)
-
-___
-### Proyecto Fichador Empleados
-He realizado este proyecto con el lenguaje c# y en la base de datos relacional MySql.
-Tiene en cuenta dos tipos de usuarios,  los trabajadores y los administradores.
-#### Trabajadores
-Los trabajadores podrán fichar, desfichar y comprovar informacion de sus fichajes.
-#### Administradores
-Los administradores podran crear y eliminar a los trabajadores de la aplicación
-
-
-Colaboradora:[Laia Clemente Crespo](https://github.com/LaClCr/)
+- Registrar la entrada y salida de los profesores.
+- Pasar lista para registrar la asistencia de los alumnos.
+- Generar informes detallados de las horas trabajadas y las faltas de asistencia.
+- Facilitar la gestión de listas de alumnos y la asignación de instrumentos.
+## Video demo
+[![Demostración del código](https://img.youtube.com/vi/0-n2354l0UY/maxresdefault.jpg
+)](https://youtu.be/0-n2354l0UY)
 
 
 
+## Tecnologías Utilizadas
+
+- **Backend:** Spring Boot
+- **Base de Datos:** MongoDB
+- **Despliegue:** AWS EC2
+- **Frontend:** React Native y Expo
+- **Testing:** Postman para pruebas de la API
+- **Diseño:** Figma para la creación de mockups
+
+
+### Funcionalidades de la Aplicación
+
+- **Inicio de Sesión**
+  - Los usuarios inician sesión con su nombre de usuario y contraseña para acceder a la aplicación.
+
+- **Registro de Cuenta**
+  - Para nuevos usuarios, permite registrarse proporcionando datos como correo electrónico, nombre de usuario y contraseña, con validación por correo electrónico.
+
+- **Perfil de Usuario**
+  - Pantalla donde los usuarios pueden ver y modificar sus datos personales.
+
+- **Registro de Fichaje**
+  - Permite a los usuarios registrar su fichaje seleccionando la hora y el día, indicando si es presencial o remoto, y añadiendo observaciones si es necesario.
+
+- **Registro de Asistencia**
+  - Los usuarios pueden seleccionar la lista de alumnos de cada curso para registrar la asistencia a las clases.
+
+- **Registro de Salida**
+  - Permite ingresar la hora de salida y realizar modificaciones en los datos de fichaje si es necesario.
+
+- **Historial de Fichajes**
+  - Muestra todos los fichajes realizados, permitiendo su visualización y búsqueda por tramos de fecha.
+
+- **Crear Lista de Asistencia**
+  - Permite a los usuarios crear una lista de asistencia para cada curso, donde pueden ver a los alumnos y marcar su asistencia durante las clases.
+
+
+### Funcionalidades futuras
+
+- **Validaciones por Correo Electrónico**
+    - Registro: Implementación de validación por correo electrónico al registrarse.
+    - Cambio de Contraseña: Validación por correo electrónico para el cambio de contraseña.
+- **Gestión de Listas de Alumnos**
+    - Modificación de Listas: Permite modificar listas de alumnos existentes.
+    - Creación de Alumnos: Crear nuevos perfiles de alumnos.
+    - Importación de Alumnos: Enviar un archivo Excel con la información de los alumnos para su importación en la base de datos.
+- **Mejora Visual de la Aplicación**
+    - Interfaz de Usuario: Diseño moderno y atractivo para facilitar la navegación y el uso intuitivo.
+- **Generación de Informes**
+    - Horas Trabajadas por los Profesores: Informes detallados de las horas trabajadas.
+    - Faltas de Asistencia de los Alumnos: Informes sobre las faltas de asistencia.
+- **Funcionalidades de Comunicación**
+    - Chat Interno: Comunicación entre profesores.
+    - Envío de Partituras: Capacidad para enviar partituras y otros materiales educativos.
+- **Gestión de Instrumentos**
+    - Almacenamiento de Instrumentos: Información sobre los instrumentos disponibles.
+    - Asignación de Instrumentos: Asignación de instrumentos a los alumnos.
+- **Rol de Administrador**
+    - Gestión de Usuarios: Acceso a las horas de alumnos y profesores, creación y administración de usuarios y listas.
+    - Restricciones para Otros Usuarios: Los demás usuarios no tendrán acceso a la creación de listas.
+ 
 
 
 
+[Mas información](academicMelody.md)
 
 
 
-
-
-
+# Otros proyectos
+[Otros proyectos](otros_proyectos.md)
 
 
  
