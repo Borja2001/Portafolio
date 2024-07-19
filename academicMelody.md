@@ -1,12 +1,12 @@
-# MusicAttendance
+# AcademicMelody
 
-MusicAttendance es una aplicación móvil diseñada para la gestión de la asistencia y el tiempo de trabajo en instituciones educativas musicales. Esta herramienta permite a los profesores y administradores registrar la entrada y salida, así como pasar lista a los alumnos, centralizando la información en una plataforma accesible.
+AcademicMelody es una aplicación móvil diseñada para la gestión de la asistencia y el tiempo de trabajo en instituciones educativas musicales. Esta herramienta permite a los profesores y administradores registrar la entrada y salida, así como pasar lista a los alumnos, centralizando la información en una plataforma accesible.
 
 ## Descripción del Proyecto
 
 ### Resumen
 
-El proyecto MusicAttendance surge de la necesidad de disponer de herramientas efectivas para el registro y seguimiento de la asistencia de profesores y alumnos en una escuela musical. Considerando la importancia de una gestión adecuada del tiempo y la asistencia para mantener la calidad educativa y organizativa, se ha desarrollado esta aplicación móvil con una interfaz intuitiva y fácil de usar.
+El proyecto AcademicMelody surge de la necesidad de disponer de herramientas efectivas para el registro y seguimiento de la asistencia de profesores y alumnos en una escuela musical. Considerando la importancia de una gestión adecuada del tiempo y la asistencia para mantener la calidad educativa y organizativa, se ha desarrollado esta aplicación móvil con una interfaz intuitiva y fácil de usar.
 
 ### Objetivos
 
